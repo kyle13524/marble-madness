@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "marble-madness", "Assembly-CSharp.csproj", "{BBBDE798-B7F4-CF58-B0B0-1637D5740080}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "marble-madness", "Assembly-CSharp-Editor.csproj", "{88ED9D70-924D-4434-4B22-6A90504F9136}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBBDE798-B7F4-CF58-B0B0-1637D5740080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBBDE798-B7F4-CF58-B0B0-1637D5740080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBBDE798-B7F4-CF58-B0B0-1637D5740080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBBDE798-B7F4-CF58-B0B0-1637D5740080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88ED9D70-924D-4434-4B22-6A90504F9136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88ED9D70-924D-4434-4B22-6A90504F9136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88ED9D70-924D-4434-4B22-6A90504F9136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88ED9D70-924D-4434-4B22-6A90504F9136}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

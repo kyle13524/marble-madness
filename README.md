@@ -9,5 +9,7 @@ This was a school project that I decided to have a little bit of fun with and cr
 
 ### Controls
 Arrow keys - Roll marble
+
 WASD - Change camera angle
+
 Space - Stop
